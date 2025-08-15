@@ -1,3 +1,8 @@
+__label__en Hello world
+__label__ru Привет мир
+__label__uz Salom dunyo
+__label__kk Сәлем әлем
+__label__qq Sälem dünıe
 __label__uz Salom, bugun ob-havo juda yaxshi.
 __label__kk Дүкен қай жерде орналасқан?
 __label__qq Salam, bugin hava rayi jaqsı.
