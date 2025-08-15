@@ -1,0 +1,1000 @@
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Сенің атың кім?
+__label__ru Привет, как у тебя дела?
+__label__ru Привет, как у тебя дела?
+__label__ru Это было очень интересно.
+__label__qq Senin atın kim?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en Hello, how are you today?
+__label__ru Это было очень интересно.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en Where is the nearest store?
+__label__kk Дүкен қай жерде орналасқан?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Dúken qay jerde ornalasqan?
+__label__en Where is the nearest store?
+__label__ru Привет, как у тебя дела?
+__label__ru Привет, как у тебя дела?
+__label__en Hello, how are you today?
+__label__uz Sizning ismingiz nima?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Где находится ближайший магазин?
+__label__ru Привет, как у тебя дела?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Senin atın kim?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en Hello, how are you today?
+__label__ru Сегодня отличная погода.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en I love reading books.
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__en This was a very interesting story.
+__label__ru Мне нравится читать книги.
+__label__ru Привет, как у тебя дела?
+__label__kk Сенің атың кім?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en This was a very interesting story.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en I love reading books.
+__label__uz Sizning ismingiz nima?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en Hello, how are you today?
+__label__en This was a very interesting story.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en I love reading books.
+__label__en Hello, how are you today?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__kk Сенің атың кім?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__uz U qayerda yashaydi?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Где находится ближайший магазин?
+__label__ru Мне нравится читать книги.
+__label__ru Сегодня отличная погода.
+__label__en Hello, how are you today?
+__label__qq Dúken qay jerde ornalasqan?
+__label__en This was a very interesting story.
+__label__uz U qayerda yashaydi?
+__label__ru Это было очень интересно.
+__label__kk Сенің атың кім?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en I love reading books.
+__label__en The weather is beautiful outside.
+__label__ru Это было очень интересно.
+__label__en The weather is beautiful outside.
+__label__kk Сенің атың кім?
+__label__en Hello, how are you today?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__ru Это было очень интересно.
+__label__en This was a very interesting story.
+__label__uz U qayerda yashaydi?
+__label__uz Sizning ismingiz nima?
+__label__ru Сегодня отличная погода.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Это было очень интересно.
+__label__en The weather is beautiful outside.
+__label__ru Это было очень интересно.
+__label__ru Мне нравится читать книги.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Это было очень интересно.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Это было очень интересно.
+__label__ru Сегодня отличная погода.
+__label__uz Sizning ismingiz nima?
+__label__ru Привет, как у тебя дела?
+__label__en Hello, how are you today?
+__label__en The weather is beautiful outside.
+__label__uz Sizning ismingiz nima?
+__label__en This was a very interesting story.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__en Where is the nearest store?
+__label__uz Sizning ismingiz nima?
+__label__en The weather is beautiful outside.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz U qayerda yashaydi?
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__en I love reading books.
+__label__ru Это было очень интересно.
+__label__qq Senin atın kim?
+__label__en I love reading books.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en Hello, how are you today?
+__label__uz U qayerda yashaydi?
+__label__en I love reading books.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Это было очень интересно.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__kk Сенің атың кім?
+__label__en Hello, how are you today?
+__label__ru Это было очень интересно.
+__label__uz U qayerda yashaydi?
+__label__ru Мне нравится читать книги.
+__label__kk Сенің атың кім?
+__label__en I love reading books.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__kk Сенің атың кім?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Сегодня отличная погода.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Dúken qay jerde ornalasqan?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Sizning ismingiz nima?
+__label__uz U qayerda yashaydi?
+__label__en Hello, how are you today?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Где находится ближайший магазин?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__ru Мне нравится читать книги.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Sizning ismingiz nima?
+__label__en This was a very interesting story.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en This was a very interesting story.
+__label__kk Сенің атың кім?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en Hello, how are you today?
+__label__uz Sizning ismingiz nima?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Сенің атың кім?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Сегодня отличная погода.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__kk Сенің атың кім?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__en This was a very interesting story.
+__label__en Hello, how are you today?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en Hello, how are you today?
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__en Where is the nearest store?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz U qayerda yashaydi?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Senin atın kim?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Это было очень интересно.
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en Where is the nearest store?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Сенің атың кім?
+__label__ru Это было очень интересно.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en Where is the nearest store?
+__label__en The weather is beautiful outside.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Привет, как у тебя дела?
+__label__uz U qayerda yashaydi?
+__label__ru Это было очень интересно.
+__label__qq Senin atın kim?
+__label__en I love reading books.
+__label__ru Где находится ближайший магазин?
+__label__kk Сенің атың кім?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Дүкен қай жерде орналасқан?
+__label__en Where is the nearest store?
+__label__kk Сенің атың кім?
+__label__qq Senin atın kim?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Где находится ближайший магазин?
+__label__en I love reading books.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en Where is the nearest store?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Где находится ближайший магазин?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__ru Это было очень интересно.
+__label__ru Мне нравится читать книги.
+__label__ru Это было очень интересно.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en Where is the nearest store?
+__label__uz U qayerda yashaydi?
+__label__ru Это было очень интересно.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en The weather is beautiful outside.
+__label__en This was a very interesting story.
+__label__ru Привет, как у тебя дела?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Где находится ближайший магазин?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en Hello, how are you today?
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__ru Это было очень интересно.
+__label__kk Сенің атың кім?
+__label__en Where is the nearest store?
+__label__en This was a very interesting story.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Это было очень интересно.
+__label__qq Senin atın kim?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__uz U qayerda yashaydi?
+__label__en I love reading books.
+__label__ru Где находится ближайший магазин?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Sizning ismingiz nima?
+__label__qq Dúken qay jerde ornalasqan?
+__label__en I love reading books.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Привет, как у тебя дела?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Сенің атың кім?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en This was a very interesting story.
+__label__kk Сенің атың кім?
+__label__ru Где находится ближайший магазин?
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__en I love reading books.
+__label__en This was a very interesting story.
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Мне нравится читать книги.
+__label__ru Где находится ближайший магазин?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en The weather is beautiful outside.
+__label__ru Привет, как у тебя дела?
+__label__ru Привет, как у тебя дела?
+__label__uz Sizning ismingiz nima?
+__label__uz U qayerda yashaydi?
+__label__en I love reading books.
+__label__ru Где находится ближайший магазин?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Сенің атың кім?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Где находится ближайший магазин?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en The weather is beautiful outside.
+__label__kk Дүкен қай жерде орналасқан?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__ru Мне нравится читать книги.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Где находится ближайший магазин?
+__label__en The weather is beautiful outside.
+__label__en I love reading books.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz U qayerda yashaydi?
+__label__en Where is the nearest store?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en The weather is beautiful outside.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Сегодня отличная погода.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en Where is the nearest store?
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Sizning ismingiz nima?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Senin atın kim?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Sizning ismingiz nima?
+__label__qq Dúken qay jerde ornalasqan?
+__label__en I love reading books.
+__label__en This was a very interesting story.
+__label__uz U qayerda yashaydi?
+__label__kk Сенің атың кім?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz U qayerda yashaydi?
+__label__kk Сенің атың кім?
+__label__en Hello, how are you today?
+__label__qq Dúken qay jerde ornalasqan?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__uz U qayerda yashaydi?
+__label__en This was a very interesting story.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en I love reading books.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Мне нравится читать книги.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Привет, как у тебя дела?
+__label__ru Это было очень интересно.
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Где находится ближайший магазин?
+__label__en I love reading books.
+__label__uz Sizning ismingiz nima?
+__label__ru Где находится ближайший магазин?
+__label__en Hello, how are you today?
+__label__en The weather is beautiful outside.
+__label__ru Где находится ближайший магазин?
+__label__ru Привет, как у тебя дела?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en This was a very interesting story.
+__label__en I love reading books.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Где находится ближайший магазин?
+__label__uz U qayerda yashaydi?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__ru Это было очень интересно.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Где находится ближайший магазин?
+__label__en Where is the nearest store?
+__label__en This was a very interesting story.
+__label__en This was a very interesting story.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en Hello, how are you today?
+__label__ru Мне нравится читать книги.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__ru Это было очень интересно.
+__label__uz Sizning ismingiz nima?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Sizning ismingiz nima?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en Where is the nearest store?
+__label__kk Дүкен қай жерде орналасқан?
+__label__en This was a very interesting story.
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Сегодня отличная погода.
+__label__uz U qayerda yashaydi?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__ru Сегодня отличная погода.
+__label__ru Это было очень интересно.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__uz U qayerda yashaydi?
+__label__ru Мне нравится читать книги.
+__label__en I love reading books.
+__label__en Hello, how are you today?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Senin atın kim?
+__label__ru Где находится ближайший магазин?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Где находится ближайший магазин?
+__label__en This was a very interesting story.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Где находится ближайший магазин?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__uz U qayerda yashaydi?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en Hello, how are you today?
+__label__ru Привет, как у тебя дела?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en I love reading books.
+__label__ru Сегодня отличная погода.
+__label__uz Sizning ismingiz nima?
+__label__uz U qayerda yashaydi?
+__label__ru Привет, как у тебя дела?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en Where is the nearest store?
+__label__en I love reading books.
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz Sizning ismingiz nima?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Где находится ближайший магазин?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__en Hello, how are you today?
+__label__en The weather is beautiful outside.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Это было очень интересно.
+__label__kk Сенің атың кім?
+__label__qq Senin atın kim?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__ru Мне нравится читать книги.
+__label__en The weather is beautiful outside.
+__label__ru Это было очень интересно.
+__label__qq Dúken qay jerde ornalasqan?
+__label__en The weather is beautiful outside.
+__label__ru Это было очень интересно.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Sizning ismingiz nima?
+__label__kk Сенің атың кім?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en The weather is beautiful outside.
+__label__en This was a very interesting story.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz U qayerda yashaydi?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en Where is the nearest store?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Где находится ближайший магазин?
+__label__ru Сегодня отличная погода.
+__label__en This was a very interesting story.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz U qayerda yashaydi?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Где находится ближайший магазин?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__ru Это было очень интересно.
+__label__kk Дүкен қай жерде орналасқан?
+__label__kk Сенің атың кім?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Мне нравится читать книги.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Senin atın kim?
+__label__en The weather is beautiful outside.
+__label__ru Где находится ближайший магазин?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en The weather is beautiful outside.
+__label__en This was a very interesting story.
+__label__ru Сегодня отличная погода.
+__label__kk Дүкен қай жерде орналасқан?
+__label__kk Сенің атың кім?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__en I love reading books.
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Сенің атың кім?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Сенің атың кім?
+__label__en The weather is beautiful outside.
+__label__qq Senin atın kim?
+__label__uz U qayerda yashaydi?
+__label__uz Sizning ismingiz nima?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Sizning ismingiz nima?
+__label__ru Привет, как у тебя дела?
+__label__ru Мне нравится читать книги.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Sizning ismingiz nima?
+__label__ru Это было очень интересно.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en This was a very interesting story.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Где находится ближайший магазин?
+__label__en Hello, how are you today?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Senin atın kim?
+__label__ru Это было очень интересно.
+__label__en This was a very interesting story.
+__label__en Hello, how are you today?
+__label__en This was a very interesting story.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Мне нравится читать книги.
+__label__en This was a very interesting story.
+__label__en Where is the nearest store?
+__label__uz Sizning ismingiz nima?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en This was a very interesting story.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__ru Мне нравится читать книги.
+__label__ru Сегодня отличная погода.
+__label__uz Sizning ismingiz nima?
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en This was a very interesting story.
+__label__ru Сегодня отличная погода.
+__label__ru Привет, как у тебя дела?
+__label__en This was a very interesting story.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en I love reading books.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en Hello, how are you today?
+__label__en Hello, how are you today?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Привет, как у тебя дела?
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Senin atın kim?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Сегодня отличная погода.
+__label__en This was a very interesting story.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__kk Сенің атың кім?
+__label__qq Dúken qay jerde ornalasqan?
+__label__en Hello, how are you today?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Sizning ismingiz nima?
+__label__ru Сегодня отличная погода.
+__label__ru Привет, как у тебя дела?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Senin atın kim?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Привет, как у тебя дела?
+__label__en The weather is beautiful outside.
+__label__kk Сенің атың кім?
+__label__uz Sizning ismingiz nima?
+__label__en Hello, how are you today?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__kk Сенің атың кім?
+__label__en This was a very interesting story.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Sizning ismingiz nima?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__qq Senin atın kim?
+__label__en Where is the nearest store?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Привет, как у тебя дела?
+__label__ru Сегодня отличная погода.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Сенің атың кім?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en Where is the nearest store?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en I love reading books.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Дүкен қай жерде орналасқан?
+__label__en The weather is beautiful outside.
+__label__en Where is the nearest store?
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz U qayerda yashaydi?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Дүкен қай жерде орналасқан?
+__label__en Where is the nearest store?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Senin atın kim?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__kk Сенің атың кім?
+__label__uz Sizning ismingiz nima?
+__label__ru Это было очень интересно.
+__label__en The weather is beautiful outside.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__en This was a very interesting story.
+__label__uz U qayerda yashaydi?
+__label__ru Привет, как у тебя дела?
+__label__ru Мне нравится читать книги.
+__label__en I love reading books.
+__label__en Where is the nearest store?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Сегодня отличная погода.
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Привет, как у тебя дела?
+__label__ru Мне нравится читать книги.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en I love reading books.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Сенің атың кім?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Это было очень интересно.
+__label__kk Сенің атың кім?
+__label__en This was a very interesting story.
+__label__qq Dúken qay jerde ornalasqan?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Sizning ismingiz nima?
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__en Where is the nearest store?
+__label__en Where is the nearest store?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Сенің атың кім?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Привет, как у тебя дела?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Мне нравится читать книги.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Dúken qay jerde ornalasqan?
+__label__en Hello, how are you today?
+__label__en The weather is beautiful outside.
+__label__uz U qayerda yashaydi?
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Сегодня отличная погода.
+__label__ru Мне нравится читать книги.
+__label__ru Сегодня отличная погода.
+__label__kk Сенің атың кім?
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Senin atın kim?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en Hello, how are you today?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Мне нравится читать книги.
+__label__en Where is the nearest store?
+__label__en The weather is beautiful outside.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz U qayerda yashaydi?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en The weather is beautiful outside.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__qq Senin atın kim?
+__label__uz Sizning ismingiz nima?
+__label__en This was a very interesting story.
+__label__kk Сенің атың кім?
+__label__ru Мне нравится читать книги.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en This was a very interesting story.
+__label__ru Сегодня отличная погода.
+__label__uz Sizning ismingiz nima?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Где находится ближайший магазин?
+__label__en Where is the nearest store?
+__label__ru Где находится ближайший магазин?
+__label__en This was a very interesting story.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Senin atın kim?
+__label__en The weather is beautiful outside.
+__label__kk Сенің атың кім?
+__label__en I love reading books.
+__label__ru Где находится ближайший магазин?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en Hello, how are you today?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Sizning ismingiz nima?
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__en The weather is beautiful outside.
+__label__ru Это было очень интересно.
+__label__ru Сегодня отличная погода.
+__label__ru Привет, как у тебя дела?
+__label__uz Sizning ismingiz nima?
+__label__ru Привет, как у тебя дела?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__en I love reading books.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__en Where is the nearest store?
+__label__kk Сенің атың кім?
+__label__kk Сенің атың кім?
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Sizning ismingiz nima?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Сенің атың кім?
+__label__en Hello, how are you today?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Мне нравится читать книги.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Привет, как у тебя дела?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__en The weather is beautiful outside.
+__label__ru Где находится ближайший магазин?
+__label__ru Привет, как у тебя дела?
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Это было очень интересно.
+__label__ru Мне нравится читать книги.
+__label__ru Мне нравится читать книги.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__qq Senin atın kim?
+__label__en This was a very interesting story.
+__label__qq Dúken qay jerde ornalasqan?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__ru Привет, как у тебя дела?
+__label__ru Это было очень интересно.
+__label__ru Это было очень интересно.
+__label__en The weather is beautiful outside.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Сенің атың кім?
+__label__en Hello, how are you today?
+__label__en Where is the nearest store?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__ru Сегодня отличная погода.
+__label__en Hello, how are you today?
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Привет, как у тебя дела?
+__label__en The weather is beautiful outside.
+__label__uz Sizning ismingiz nima?
+__label__ru Мне нравится читать книги.
+__label__en The weather is beautiful outside.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Сегодня отличная погода.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Sizning ismingiz nima?
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Senin atın kim?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Мне нравится читать книги.
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__ru Это было очень интересно.
+__label__uz U qayerda yashaydi?
+__label__en Hello, how are you today?
+__label__ru Где находится ближайший магазин?
+__label__en This was a very interesting story.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__uz Sizning ismingiz nima?
+__label__qq Senin atın kim?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Привет, как у тебя дела?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz U qayerda yashaydi?
+__label__en This was a very interesting story.
+__label__ru Сегодня отличная погода.
+__label__qq Senin atın kim?
+__label__en I love reading books.
+__label__uz U qayerda yashaydi?
+__label__uz Sizning ismingiz nima?
+__label__ru Мне нравится читать книги.
+__label__ru Где находится ближайший магазин?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Это было очень интересно.
+__label__en Where is the nearest store?
+__label__qq Senin atın kim?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__ru Сегодня отличная погода.
+__label__kk Дүкен қай жерде орналасқан?
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Сегодня отличная погода.
+__label__ru Привет, как у тебя дела?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Привет, как у тебя дела?
+__label__ru Привет, как у тебя дела?
+__label__en Where is the nearest store?
+__label__ru Мне нравится читать книги.
+__label__uz U qayerda yashaydi?
+__label__ru Мне нравится читать книги.
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Это было очень интересно.
+__label__kk Сенің атың кім?
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__en Where is the nearest store?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__ru Это было очень интересно.
+__label__en Hello, how are you today?
+__label__uz Sizning ismingiz nima?
+__label__en Where is the nearest store?
+__label__uz Sizning ismingiz nima?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Привет, как у тебя дела?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en I love reading books.
+__label__qq Senin atın kim?
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__qq Senin atın kim?
+__label__ru Где находится ближайший магазин?
+__label__uz Sizning ismingiz nima?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz U qayerda yashaydi?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Senin atın kim?
+__label__ru Это было очень интересно.
+__label__ru Это было очень интересно.
+__label__kk Дүкен қай жерде орналасқан?
+__label__en The weather is beautiful outside.
+__label__ru Сегодня отличная погода.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Дүкен қай жерде орналасқан?
+__label__en The weather is beautiful outside.
+__label__ru Сегодня отличная погода.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__en Hello, how are you today?
+__label__en I love reading books.
+__label__ru Привет, как у тебя дела?
+__label__qq Senin atın kim?
+__label__ru Это было очень интересно.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Sizning ismingiz nima?
+__label__ru Где находится ближайший магазин?
+__label__qq Dúken qay jerde ornalasqan?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Sizning ismingiz nima?
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Сегодня отличная погода.
+__label__en Where is the nearest store?
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Senin atın kim?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en The weather is beautiful outside.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__ru Где находится ближайший магазин?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Senin atın kim?
+__label__kk Сенің атың кім?
+__label__en This was a very interesting story.
+__label__qq Senin atın kim?
+__label__ru Сегодня отличная погода.
+__label__qq Senin atın kim?
+__label__en Where is the nearest store?
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__ru Мне нравится читать книги.
+__label__ru Мне нравится читать книги.
+__label__uz Bu juda qiziqarli voqea edi.
+__label__kk Сенің атың кім?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Сегодня отличная погода.
+__label__ru Привет, как у тебя дела?
+__label__qq Dúken qay jerde ornalasqan?
+__label__ru Привет, как у тебя дела?
+__label__uz Sizning ismingiz nima?
+__label__kk Дүкен қай жерде орналасқан?
+__label__en The weather is beautiful outside.
+__label__ru Это было очень интересно.
+__label__en This was a very interesting story.
+__label__kk Сенің атың кім?
+__label__en The weather is beautiful outside.
+__label__ru Сегодня отличная погода.
+__label__qq Dúken qay jerde ornalasqan?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__en Hello, how are you today?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en This was a very interesting story.
+__label__ru Сегодня отличная погода.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Бұл өте қызықты оқиға болды.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Сенің атың кім?
+__label__en Where is the nearest store?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Сегодня отличная погода.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en Where is the nearest store?
+__label__ru Мне нравится читать книги.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__ru Это было очень интересно.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Дүкен қай жерде орналасқан?
+__label__kk Сенің атың кім?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Где находится ближайший магазин?
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__en Where is the nearest store?
+__label__qq Senin atın kim?
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Дүкен қай жерде орналасқан?
+__label__uz Sizning ismingiz nima?
+__label__en This was a very interesting story.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en Hello, how are you today?
+__label__en Hello, how are you today?
+__label__en The weather is beautiful outside.
+__label__uz U qayerda yashaydi?
+__label__en I love reading books.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Это было очень интересно.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__qq Salam, bugin hava rayi jaqsı.
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Где находится ближайший магазин?
+__label__kk Дүкен қай жерде орналасқан?
+__label__ru Сегодня отличная погода.
+__label__kk Мен кітап оқығанды ұнатамын.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__en The weather is beautiful outside.
+__label__en The weather is beautiful outside.
+__label__kk Бұл өте қызықты оқиға болды.
+__label__qq Dúken qay jerde ornalasqan?
+__label__kk Сәлем, бүгін ауа райы жақсы.
+__label__en The weather is beautiful outside.
+__label__uz Salom, bugun ob-havo juda yaxshi.
+__label__qq Men kitap oqiwdı jaqsı köremen.
+__label__ru Где находится ближайший магазин?
+__label__ru Это было очень интересно.
+__label__qq Bul ótı qızıqlı oqiğa boldı.
+__label__ru Это было очень интересно.
+__label__uz Men kitob o‘qishni yaxshi ko‘raman.
+__label__kk Сәлем, бүгін ауа райы жақсы.
